@@ -42,13 +42,13 @@
 <div align="center">
 
 ### LANGUAGES
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="Languages" />
 
 ### FRAMEWORKS & LIBRARIES
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
 
 ### DATABASES & TOOLS
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,maria,git,github,docker,linux,vscode&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,git,github,docker,linux,vscode&theme=dark" alt="Tools" />
 
 </div>
 
