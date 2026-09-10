@@ -60,9 +60,8 @@
 
 | MODULE | STATUS | DESCRIPTION | REPOSITORY |
 |:---|:---:|:---|:---:|
-| **Project-Alpha** | 🟢 ACTIVE | Modern web application platform | [View Repo](https://github.com/Khofiyal) |
-| **Data-Pipeline** | 🟢 ACTIVE | Automated backend telemetry service | [View Repo](https://github.com/Khofiyal) |
-| **Cyber-UI** | 🟡 STABLE | Futuristic UI component library | [View Repo](https://github.com/Khofiyal) |
+| **Project-Property-Listing** | 🟢 ACTIVE | Modern web application platform | [View Repo](https://github.com/Khofiyal/Property) |
+| **Project-Parfume** | 🟢 ACTIVE | Modern web application platform | [View Repo](https://github.com/Parfum) |
 
 </div>
 
