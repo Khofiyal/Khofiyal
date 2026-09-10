@@ -112,10 +112,6 @@
 
 <div align="center">
 
-```ascii
-[SYSTEM STATUS: NORMAL] - [LISTENING FOR CONNECTIONS...]
-```
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Khofiyal.Khofiyal&style=flat&labelColor=00ff66&label=VISITORS&color=0d1117&icon=true)
 
 <p>
