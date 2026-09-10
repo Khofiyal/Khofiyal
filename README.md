@@ -72,16 +72,13 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/khofiyal" target="_blank">
+<a href="https://linkedin.com/in/khofiyalfatahdarojat" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/khofiyal" target="_blank">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://instagram.com/khofiyal" target="_blank">
+<a href="https://instagram.com/fatahd_" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="mailto:khofiyal@example.com">
+<a href="mailto:khofiyalfatah@gmail.com">
   <img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
