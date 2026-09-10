@@ -54,26 +54,6 @@
 
 ---
 
-## 📊 TELEMETRY // GITHUB METRICS
-
-<div align="center">
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Khofiyal&show_icons=true&theme=nord&hide_border=false&count_private=true&include_all_commits=true&ring_color=00ff66&icon_color=00ff66&text_color=c9d1d9&bg_color=0d1117" alt="Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khofiyal&layout=compact&theme=nord&hide_border=false&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khofiyal&theme=react-dark&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=false" alt="Activity Graph" />
-</p>
-
-</div>
-
----
-
 ## 🚀 ACTIVE DEPLOYMENTS // PROJECTS
 
 <div align="center">
