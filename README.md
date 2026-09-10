@@ -61,7 +61,7 @@
 | MODULE | STATUS | DESCRIPTION | REPOSITORY |
 |:---|:---:|:---|:---:|
 | **Project-Property-Listing** | 🟢 ACTIVE | Modern web application platform | [View Repo](https://github.com/Khofiyal/Property) |
-| **Project-Parfume** | 🟢 ACTIVE | Modern web application platform | [View Repo](https://github.com/Parfum) |
+| **Project-Parfume** | 🟢 ACTIVE | Modern web application platform | [View Repo](https://github.com/Khofiyal/Parfum) |
 
 </div>
 
