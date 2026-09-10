@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
 
 ### DATABASES & TOOLS
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,docker,linux,vscode,vite&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,mariadb,git,github,docker,linux,vscode&theme=dark" alt="Tools" />
 
 </div>
 
