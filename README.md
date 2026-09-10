@@ -29,7 +29,7 @@
   "operator": "Khofiyal",
   "archetype": "Full Stack Developer & System Builder",
   "location": "Indonesia",
-  "core_focus": ["Web Architecture", "API Integration", "Automated Workflows"],
+  "core_focus": ["Web Architecture", "API Integration", "Automated Workflows", "Cyber Security"],
   "editor": "VS Code / Neovim",
   "os": "Windows 11 / Linux",
   "terminal": "PowerShell / Zsh"
