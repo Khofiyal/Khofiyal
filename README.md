@@ -35,25 +35,6 @@
   "terminal": "PowerShell / Zsh"
 }
 ```
-
----
-
-## 🎧 AUDIO STREAM // SPOTIFY TELEMETRY
-
-<div align="center">
-
-<p>
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AUDIO_CORE-SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
-</p>
-
-</div>
-
 ---
 
 ## ⚡ TECH STACK // KERNEL & MODULES
